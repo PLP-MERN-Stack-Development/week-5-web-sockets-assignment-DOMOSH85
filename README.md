@@ -106,3 +106,9 @@ pnpm run dev
 
 **Private Messaging View**
 ![Private Messaging View](./screenshots/private-chat-screenshot.png)
+
+
+
+## Deployment URLs
+Frontend - http://my-projects-yhr7.vercel.app/
+Backend - https://chat-app-d0zp.onrender.com/
